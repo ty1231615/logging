@@ -27,7 +27,7 @@ dm_messages = {}
 out = False
 today = datetime.datetime.today().day
 prefix = "!lg."
-TOKEN = "Nzg0NDA1MzIwMjY5MDM3NTc4.X8o0YQ.t1DMVf-BrA7Q9RaVcTv3SVeSgMI"
+TOKEN = "*************************************"
 owner_id = 535429351743946764
 ads_time = datetime.datetime.now() + datetime.timedelta(minutes=100)
 AdsInterval = [100,1000]
